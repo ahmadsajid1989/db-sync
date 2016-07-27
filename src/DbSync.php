@@ -181,4 +181,9 @@ class DbSync {
 
         return $rowCount;
     }
+
+    public function setTransferSize($size)
+    {
+        $this->transferInterface->setTransferSize($size);
+    }
 }
