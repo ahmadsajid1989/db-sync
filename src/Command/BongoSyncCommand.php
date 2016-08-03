@@ -245,9 +245,7 @@ class BongoSyncCommand extends Command
         [
             'tableName' => 'artist',
         ],
-        [
-            'tableName' => 'banner_platform_pages',
-        ],
+
         [
             'tableName' => 'banners',
         ],
@@ -257,6 +255,12 @@ class BongoSyncCommand extends Command
             'tableName' => 'cast_and_crew',
         ],[
             'tableName' => 'cast_and_crews_to_artists',
+        ],
+        [
+            'tableName' => 'channel_selector',
+        ],
+        [
+            'tableName' => 'channel_selector_detail',
         ],[
             'tableName' => 'content_genre',
         ],[
@@ -273,6 +277,9 @@ class BongoSyncCommand extends Command
         ],
         [
             'tableName' => 'media',
+        ],
+        [
+            'tableName' => 'page_manager',
         ],
         [
             'tableName' => 'pagemanager_banners',

@@ -17,9 +17,11 @@
     "mrjgreen/database": "^2.4",
     "symfony/debug": "^2.7",
     "ramsey/array_column": "^1.1"
+
   },
   "require-dev": {
     "satooshi/php-coveralls": "dev-master",
-    "phpunit/phpunit": "^4.8"
+    "phpunit/phpunit": "^4.8",
+    "macfja/phar-builder": "^0.2.4"
   }
 }
