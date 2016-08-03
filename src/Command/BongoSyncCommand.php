@@ -282,10 +282,10 @@ class BongoSyncCommand extends Command
             'tableName' => 'page_manager',
         ],
         [
-            'tableName' => 'pagemanager_banners',
+            'tableName' => 'pagemanager_banner',
         ],
         [
-            'tableName' => 'pagemanager_sliders',
+            'tableName' => 'pagemanager_slider',
         ],
         [
             'tableName' => 'pages',
