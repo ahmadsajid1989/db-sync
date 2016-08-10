@@ -279,6 +279,12 @@ class BongoSyncCommand extends Command
             'tableName' => 'media',
         ],
         [
+            'tableName' => 'event_program_guide',
+        ],
+        [
+            'tableName' => 'event_program_guide_schedule',
+        ],
+        [
             'tableName' => 'page_manager',
         ],
         [
