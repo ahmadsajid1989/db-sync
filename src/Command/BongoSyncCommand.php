@@ -312,11 +312,12 @@ class BongoSyncCommand extends Command
             'tableName' => 'role',
         ],
         [
-            'tableName' => 'slider_details',
-        ],
-        [
             'tableName' => 'sliders',
         ],
+        [
+            'tableName' => 'slider_details',
+        ],
+
         [
             'tableName' => 'slides',
         ],
